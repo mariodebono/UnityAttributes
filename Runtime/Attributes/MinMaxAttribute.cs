@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace com.mariodebono.attributes
+namespace MarioDebono.Attributes
 {
     public class MinMaxAttribute : PropertyAttribute
     {

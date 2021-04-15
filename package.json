@@ -1,13 +1,14 @@
 {
   "name": "com.mariodebono.attributes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Generic Attributes",
-  "description": "A set of property attributes to use in unity projects",
+  "description": "A set of property attributes to use in unity projects\n\nIncluded:\nMinMax\nReadOnly",
   "unity": "2018.1",
   "author": {
     "name": "Mario Debono",
     "email": "hello@mariodebono.com",
     "url": "https://www.unity3d.com"
   },
+  "keywords": ["Attributes", "ReadOnly", "MinMax"],
   "type": "tool"
 }

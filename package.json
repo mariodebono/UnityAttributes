@@ -1,0 +1,13 @@
+{
+  "name": "com.mariodebono.attributes",
+  "version": "0.1.0",
+  "displayName": "Generic Attributes",
+  "description": "A set of property attributes to use in unity projects",
+  "unity": "2018.1",
+  "author": {
+    "name": "Mario Debono",
+    "email": "hello@mariodebono.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "com.mariodebono.attributes.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7e1f1aa1183622d44ac2690e39f2ff04"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,5 +1,5 @@
 {
-  "name": "com.mariodebono.mariodebono.attributes",
+  "name": "com.mariodebono.attributes",
   "version": "0.1.2",
   "displayName": "Generic Attributes",
   "description": "A set of property attributes to use in unity projects\n\nIncluded:\nMinMax\nReadOnly",

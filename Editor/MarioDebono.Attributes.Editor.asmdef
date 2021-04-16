@@ -1,11 +1,13 @@
 {
-    "name": "com.mariodebono.attributes.editor",
+    "name": "MarioDebono.Attributes.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:7e1f1aa1183622d44ac2690e39f2ff04"
+        "GUID:66923d60129fc874d897908c14d900f1"
     ],
     "includePlatforms": [],
-    "excludePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],

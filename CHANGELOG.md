@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.3 (2021-04-16)
+
+
+### Bug Fixes
+
+* add missing changelog meta file ([29c06ea](https://github.com/mariodebono/UnityAttributes/commit/29c06eaa6dae9192b6367133d712413e078b1e69))
+
 ### 0.1.2 (2021-04-16)
 
 

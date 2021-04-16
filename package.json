@@ -1,5 +1,5 @@
 {
-  "name": "com.mariodebono.attributes",
+  "name": "com.mariodebono.mariodebono.attributes",
   "version": "0.1.1",
   "displayName": "Generic Attributes",
   "description": "A set of property attributes to use in unity projects\n\nIncluded:\nMinMax\nReadOnly",
@@ -9,6 +9,10 @@
     "email": "hello@mariodebono.com",
     "url": "https://www.unity3d.com"
   },
-  "keywords": ["Attributes", "ReadOnly", "MinMax"],
+  "keywords": [
+    "Attributes",
+    "ReadOnly",
+    "MinMax"
+  ],
   "type": "tool"
 }
